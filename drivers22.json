@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Lewis Hamilton",
+      "team": "Mercedes",
+      "number": "44"
+    },
+    {
+      "id": "2",
+      "name": "George Russell",
+      "team": "Mercedes",
+      "number": "63"
+    },
+    {
+      "id": "3",
+      "name": "Max Verstappen",
+      "team": "Red Bull",
+      "number": "33"
+    },
+    {
+      "id": "4",
+      "name": "Sergio Perez",
+      "team": "Red Bull",
+      "number": "22"
+    }
+  ]
+}
